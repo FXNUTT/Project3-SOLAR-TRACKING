@@ -1,5 +1,6 @@
-ESP8266WiFi	
-Blynk	
-BH1750
-Servo
-LiquidCrystal_I2C
+ESP8266WiFi.h
+BlynkSimpleEsp8266.h
+Wire.h
+BH1750.h
+Servo.h
+LiquidCrystal_I2C.h
